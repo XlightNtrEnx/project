@@ -1,0 +1,13 @@
+body {
+  background-color: yellow;
+}
+
+#eventDescription {
+  height: 200px;
+  width: 500px
+}
+
+#volunteerInstructions {
+  height: 200px;
+  width: 500px;
+}

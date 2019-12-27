@@ -1,0 +1,62 @@
+body {
+background: url("https://vignette.wikia.nocookie.net/food-fantasy/images/4/4b/Loading_Screen-Spring_Festival.jpg/revision/latest?cb=20190202165226") no-repeat fixed;
+}
+
+div.bottom{
+background: black;
+height: 100vh;
+}
+
+ul {
+text-decoration: none;
+display: inline-block;
+font-size: 20px;
+padding: 10px;
+font-family: arial;
+background: black;
+color: white;
+border: white solid;
+} 
+
+th tr{
+position: relative;
+display: block;
+color: white;
+background: black;
+}
+
+h {
+font-size: 50px;
+color: white;
+text-decoration: underline;
+}
+
+p {
+font-size: 20px;
+color: white;
+border: white solid;
+padding: 30px;
+box-sizing: border-box;
+width: 400px;
+}
+
+img {
+height: 100px;
+}
+
+.right {
+text-align: right;
+position: relative;
+right: 60px;
+display: block;
+top: 120px;
+float: right;
+}
+
+.left {
+text-align: left;
+position: relative;
+left: 120px;
+display: block;
+top: 60px;
+}
